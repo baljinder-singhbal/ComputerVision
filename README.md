@@ -1,1 +1,1 @@
-# A Computer Vision project
+# A Computer Vision and Image processing software to detect and classify motorcycles rods in images obtained with backlighting under the presence of 'distractor' objects and metallic powder disturbance.
