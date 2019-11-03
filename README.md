@@ -1,1 +1,1 @@
-# A Computer Vision and Image processing software to detect and classify motorcyces rods in images obtained with backlighting with 'distractor' objects and metallic powder disturbance.
+# A Computer Vision and Image processing software to detect and classify motorcycles rods in images obtained with backlighting under the presence of 'distractor' objects and metallic powder disturbance.
